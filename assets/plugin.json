@@ -1,0 +1,7 @@
+{
+    "name": "JSEval",
+    "description": "Allows admins to execute JavaScript code using a special command, [stat]/js[].",
+    "author": "Summet, DeltaNedas",
+    "main": "jseval.JSEval",
+    "version": "1.4"
+}
